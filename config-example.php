@@ -1,9 +1,0 @@
-<?php
-define('OAUTH_KEY','');
-define('OAUTH_SECRET','');
-define('BASE_URL','http://api.luo1002.com/');
-define('API_VERSION','1');
-define('DEBUG',FALSE);
-define('DOLOG',FALSE);
-define('COMPRESS',FALSE);
-?>
