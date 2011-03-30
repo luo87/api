@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 59
+.buildpath
+.project
+.settings
+config.php
+log.txt
+index.php
+
+END
